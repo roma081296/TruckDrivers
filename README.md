@@ -5,7 +5,7 @@ Return Drivers Name Located in specific Location.
 Create a REST API to GET a list of truck drivers.
 Requirements:
 • The API should accept one parameter:
-o Location (city where the driver is located)
+  Location (city where the driver is located)
 • The API response should be a list of truck drivers.
 o The response should at least contain the first and last name of the drivers as well
 as the location
