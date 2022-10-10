@@ -16,5 +16,4 @@ occurred
 o Use Dependency Injection to inject the service.
 o There should be a unit test to test the service
 • The API should be accessible via Swagger UI
-• Bonus features
 o Logging
