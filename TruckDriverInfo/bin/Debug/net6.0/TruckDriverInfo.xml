@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>TruckDriverInfo</name>
+    </assembly>
+    <members>
+        <member name="M:TruckDriverInfo.Controllers.TruckController.GetDriversNameByLocation(System.String)">
+            <summary>
+            Return Drivers Name Located in specific Location.
+            </summary>
+            <param name="location">Location where you need a Truck Driver</param>
+            <returns>List of Truck Drivers</returns>
+            <response code="400">If the item not found</response>
+        </member>
+    </members>
+</doc>
